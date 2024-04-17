@@ -4,4 +4,4 @@ metadata:
   name: simple-html-config
 data:
   index.html: |
-    <h1>Welcome to my Simple HTML Website!</h1>
+    <h1>Welcome to my New Simple HTML Website!</h1>
