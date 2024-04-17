@@ -18,4 +18,4 @@ kubectl -n default get secret argocd-initial-admin-secret -o jsonpath="{.data.pa
 ```
 3. Login with username: `admin` and the password you retrieved in step 2.
 4. Follow the instructions seen here in the [Argo CD docs](https://argo-cd.readthedocs.io/en/stable/getting_started/#creating-apps-via-ui) to create and deploy the application.
-5. It should be accessible at http://<server-ip>:30081
+5. It should be accessible at http://server-ip:30081
